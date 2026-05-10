@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shara Raat
+
+This log tracks the cryptographic history and versioning for the song **Shara Raat** (shara-raat).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T07:55:03.924861 | `v1` | `d361387d4ac7fa0ab053d9f29a361d93bffe511e292596b8e7a8735190bda8dd` | `a0cbe670fc37eaad2d63ecf226d571855f4f427f0e7a8ce64cc5a2645c31b914` | `2026-05-10_shara-raat-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

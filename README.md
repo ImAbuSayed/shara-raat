@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shara-raat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Shara Raat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shara-raat/) |
+| **Get License** | [License this song: Shara Raat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shara-raat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d361387d4ac7fa0ab053d9f29a361d93bffe511e292596b8e7a8735190bda8dd` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
