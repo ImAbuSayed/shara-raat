@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shara-raat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Shara Raat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shara-raat/) |
+| **Get License** | [Commercial Licensing for Shara Raat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shara-raat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> কাছে এসো আজ রাতে, ছড়াও প্রেমের ঘ্রাণ
+> তোমার ঐ শরীরে আমার আটকে আছে প্রাণ
+> তোমার ঐ ছোঁয়াতে আমি যে দিশেহারা
+> দুজনের এই রাতে জেগে আছে শুধু তারা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
